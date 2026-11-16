@@ -53,7 +53,7 @@ The demo adds a temporary student, updates their email, then deletes them. The t
 
 ## Video demonstration
 
-**Video link:** ADD_YOUR_PUBLIC_OR_UNLISTED_VIDEO_URL_HERE
+**Video link:** (https://youtu.be/7FvfWSaT1yY)
 
 In the video (maximum five minutes), show the database schema and initial records in pgAdmin, run `python app/main.py`, and use pgAdmin queries to verify the insert, update, and delete operations. The application pauses after INSERT, UPDATE, and DELETE so you can switch to pgAdmin, run `SELECT * FROM students ORDER BY student_id;`, and show each change before pressing Enter to continue. Re-run `setup.sql` before a fresh demonstration.
 
